@@ -1,6 +1,7 @@
         # Projet-IOT
 
     Rapport d’IoT
+    
 Sujet du Projet
 Pour le cours d’Internet des Objets nous avons dû imaginer une “Station Météo Connectée”, à placer par exemple dans un logement afin de recueillir tout type de données météorologiques.
 
