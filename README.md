@@ -12,8 +12,13 @@ On peut traduire cette récupération des données via un affichage graphique qu
 
 Dans l’idée, il faut via Python demander la météo pour une ville donner par retour par Open Weather API base_url = “http://api.openweathermap.org/data/2.5/weather?” api_key = “7d5cb654527b774dadb9ad3b92045cdb” qui communique par la suite avec le MQTT et un arduino afin d’obtenir les informations souhaitées, qui seront retranscrites via un tableau et/ou un graphique.
 
-    << How to >>
-    
+
+    Difficulté rencontrée
+Pour le projet nous n'avons malheureusement pas pu coder sur arduino, l'un des ordinateurs était incompatible avec le logiciel et l'autre n'était pas reconnu, nous n'avons pas réussi à trouver de solutions à ce problème...
+Nous nous excusons de ne pas pouvoir répondre au projet de manière expérimentale et de juste présenter un rapport sur github avec quelques ébauches en html.
+
+
+    << How to >>    
 Serveur Mqtt pour le broker sous mosquitto 
 Adresse du serveur : 192.168.43.79 
 Port : 1883
